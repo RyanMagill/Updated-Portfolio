@@ -23,6 +23,9 @@
 #navbarDropdown{
     float: right;
 }
+html{
+    background-image: url("../Images/prism.png");
+}
 body{
     background-image: url("../Images/prism.png");
     margin: 0 auto;
